@@ -82,8 +82,8 @@
 	mag_type = /obj/item/ammo_box/magazine/m10mm
 
 /obj/item/weapon/gun/projectile/automatic/pistol/glock
-	name = "NT-22 \"Enforcer\" pistol"
-	desc = "Standard issue to all Nanotrasen security personnel. Uses 10mm ammo."
+	name = "NT-22 Enforcer pistol"
+	desc = "Standard issue Nanotrasen security pistol. Uses 10mm ammo."
 	icon_state = "glock"
 
 /obj/item/weapon/gun/projectile/automatic/pistol/attack_hand(mob/user as mob)
